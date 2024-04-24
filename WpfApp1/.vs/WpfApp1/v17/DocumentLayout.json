@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\wpfapp1\\wpfapp1\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\wpfapp1\\wpfapp1\\classcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\classcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21768568-6E44-48C3-A05E-9A73A0AAB0FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassCalc.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\ClassCalc.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ClassCalc.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\ClassCalc.cs",
+              "RelativeToolTip": "WpfApp1\\ClassCalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:50:57.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T08:00:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\CalcViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\CalcViewModel.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\CalcViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\CalcViewModel.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:13:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T05:53:46.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
