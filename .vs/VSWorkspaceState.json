@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Chapter12",
+    "\\Chapter12\\Chapter12",
+    "\\Chapter12\\Chapter12\\bin",
+    "\\Chapter12\\Chapter12\\obj",
+    "\\Chapter12\\Chapter12\\obj\\Release"
   ],
   "PreviewInSolutionExplorer": false
 }

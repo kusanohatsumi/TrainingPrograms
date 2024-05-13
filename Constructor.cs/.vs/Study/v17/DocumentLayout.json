@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\constructor.cs\\constructor.cs\\constructor02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|solutionrelative:constructor.cs\\constructor02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\constructor.cs\\constructor.cs\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|solutionrelative:constructor.cs\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|c:\\users\\hatsu\\documents\\\u6280\u8853\u7814\u4FEE\\study_c#\\trainingprograms\\constructor.cs\\constructor.cs\\constructor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CE88214B-C1B9-4061-A92D-613E38B1839B}|Constructor.cs\\Constructor.csproj|solutionrelative:constructor.cs\\constructor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constructor",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\Constructor.csproj",
+              "RelativeDocumentMoniker": "Constructor.cs\\Constructor.csproj",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\Constructor.csproj",
+              "RelativeToolTip": "Constructor.cs\\Constructor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T02:52:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constructor.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\constructor.cs",
+              "RelativeDocumentMoniker": "Constructor.cs\\constructor.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\constructor.cs",
+              "RelativeToolTip": "Constructor.cs\\constructor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:46:25.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "constructor02.cs",
+              "DocumentMoniker": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\constructor02.cs",
+              "RelativeDocumentMoniker": "Constructor.cs\\constructor02.cs",
+              "ToolTip": "C:\\Users\\hatsu\\Documents\\\u6280\u8853\u7814\u4FEE\\study_C#\\TrainingPrograms\\Constructor.cs\\Constructor.cs\\constructor02.cs",
+              "RelativeToolTip": "Constructor.cs\\constructor02.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:56:33.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
